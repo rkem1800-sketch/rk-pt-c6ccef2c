@@ -1,6 +1,6 @@
 {
-  "name": "Crypto Tracker",
-  "short_name": "Crypto",
+  "name": "Investment Tracker",
+  "short_name": "Investments",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
